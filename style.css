@@ -21,6 +21,7 @@ p {
  #content-bgimage {
    image: url("https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
    position:fixed;
+   height: 100px;
    top:0px;
    left:0px;
    margin: auto;
