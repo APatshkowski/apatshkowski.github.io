@@ -8,12 +8,13 @@ p {
 
 
 #content-name {
-  margin: 0 0 2px 0;
+  margin: auto;
   padding: 0 0 10px 0;
   font-size: 84px;
   font-weight: bold;
   color: white;
   font: Verdana, sans-serif;
+  text-align: center;
   background: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") 
   
 }
