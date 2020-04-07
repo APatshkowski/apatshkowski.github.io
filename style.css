@@ -15,7 +15,10 @@ p {
   color: white;
   font-family: Arial, serif;
   text-align: center;
-  background: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-  position:relative, top:-40px, left:0px; 
+  
+  img {
+    background: url("https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    position:fixed, top:-40px, left:0px; 
+  }
   
 }
