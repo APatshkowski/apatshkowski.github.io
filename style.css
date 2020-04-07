@@ -13,9 +13,9 @@ p {
   font-size: 84px;
   font-weight: bold;
   color: white;
-  font: Arial, serif;
+  font-family: Arial, serif;
   text-align: center;
   background: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-  background-position:relative, top:-200px, left:0px; 
+  position:relative, top:-40px, left:0px; 
   
 }
