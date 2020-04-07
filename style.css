@@ -1,3 +1,19 @@
+body {
+  
+}
+
 p {
-  <color: red;
+  color: red;
+}
+
+
+#content-contact {
+  margin: 0 0 2px 0;
+  padding: 0 0 10px 0;
+  font-size: 84px;
+  font-weight: bold;
+  color: white;
+  font: Muli, sans-serif;
+  background: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") 
+  
 }
