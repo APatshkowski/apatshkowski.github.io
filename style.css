@@ -19,8 +19,10 @@ p {
  
   
  #content-bgimage {
-   background: url("https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
-   position:fixed, top:-40px, left:0px;
+   image: url("https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+   position:fixed;
+   top:-10px;
+   left:0px;
    margin: auto;
    padding: 0 0 10px 0;
   }
