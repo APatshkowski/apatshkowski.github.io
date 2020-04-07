@@ -15,6 +15,7 @@ p {
   color: white;
   font: Verdana, serif;
   text-align: center;
-  background: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"), position:absolute, top:-40px, left:0px; 
+  background: url("https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-position:absolute, top:-40px, left:0px; 
   
 }
