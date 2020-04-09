@@ -1,7 +1,15 @@
 body {
   
+  .ephone {
+    display: inline-block;
+    vertical-align: right;
+    float: none;
+    
+  }
+  
 }
 
 p {
   color: red;
 }
+
